@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.git/
+
+# Large datasets and trained models
+*/datasets/
+*/trained_models/
+
+# Local database
+*.db
